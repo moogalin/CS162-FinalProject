@@ -1,0 +1,3 @@
+
+All:
+	g++ BackYard.cpp BackYard.hpp Bathroom.cpp Bathroom.hpp Bedroom.cpp Bedroom.hpp CatLady.cpp CatLady.hpp HumaneSociety.hpp HumaneSociety.cpp Kitchen.cpp Kitchen.hpp LivingRoom.cpp LivingRoom.hpp Main.cpp Room.cpp Room.hpp -o PlayGame
